@@ -1,8 +1,5 @@
 # Sortowanie przez wstawianie
-# Adam Chrapkowski
-# www.algorytm.org
-#
-# Tested with Python 3.3
+
 
 from functools import reduce
 from bisect import bisect_left

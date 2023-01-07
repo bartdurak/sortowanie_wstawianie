@@ -1,8 +1,5 @@
 # Sortowanie przez wymiane
-# Adam Chrapkowski
-# www.algorytm.org
-#
-# Tested with Python 3.3
+
 
 def selection_sort(y):
 	for i, n in enumerate(y):
